@@ -1,0 +1,47 @@
+G04 Layer: BottomSilkscreenLayer*
+G04 EasyEDA v6.5.25, 2024-03-23 21:11:36*
+**********************************至少这一行要换成自己的************************************
+G04 Gerber Generator version 0.2*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in millimeters  *
+G04 leading zeros omitted , absolute positions ,3 integer and 6 decimal *
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2024-03-23T01:13:53+08:00*%
+%TF.ProjectId,8643____,38363433-4bd5-4a5e-932e-6b696361645f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2024-03-23 01:13:53*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.127000*%
+%ADD11C,0.200000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X153678000Y-87054000D02*
+X153678000Y-85504000D01*
+X161163000Y-87054000D02*
+X153678000Y-87054000D01*
+X179078000Y-87054000D02*
+X175498000Y-87054000D01*
+X153678000Y-68954000D02*
+X153678000Y-70904000D01*
+X153678000Y-68954000D02*
+X161163000Y-68954000D01*
+X175498000Y-68954000D02*
+X179078000Y-68954000D01*
+X179078000Y-68954000D02*
+X179078000Y-87054000D01*
+D11*
+X157178000Y-88104000D02*
+G75*
+G03*
+X157178000Y-88104000I-100000J0D01*
+G01*
+%TD*%
+M02*
